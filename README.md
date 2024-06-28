@@ -1,11 +1,11 @@
 # Python_Hotel_Bookings_Data_Analysis
 
 # Data Analysis Project Steps :
->	Understand problem statement.
->	Identify the data you want to analyze.
->	Explore and clean the data.
->	Analyze the data to get useful insights.
->	Present the data in terms of reports or dashboards using visualization.
+1.	Understand problem statement.
+2.	Identify the data you want to analyze.
+3.	Explore and clean the data.
+4.	Analyze the data to get useful insights.
+5.	Present the data in terms of reports or dashboards using visualization.
 
 # Business Problem
 In recent years, City Hotels and Resort Hotels have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
