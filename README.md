@@ -1,15 +1,15 @@
 # Python_Hotel_Bookings_Data_Analysis
 
+# Business Problem
+In recent years, City Hotels and Resort Hotels have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
+The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
+
 # Data Analysis Project Steps :
 1.	Understand problem statement.
 2.	Identify the data you want to analyze.
 3.	Explore and clean the data.
 4.	Analyze the data to get useful insights.
 5.	Present the data in terms of reports or dashboards using visualization.
-
-# Business Problem
-In recent years, City Hotels and Resort Hotels have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
-The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
 
 # Assumptions
 1.	No unusual occurrences between 2022 and 2023 will have a substantial impact on the data used.
